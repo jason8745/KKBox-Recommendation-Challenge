@@ -6,7 +6,7 @@
 
 ## EDA
 
-資料探索的部分，可以直接參考**[KKBOX 歌曲推薦系統](https://wenwender.wordpress.com/2019/04/03/kkbox-%e6%ad%8c%e6%9b%b2%e6%8e%a8%e8%96%a6%e7%b3%bb%e7%b5%b1/?preview_id=180&preview_nonce=c112e18087&preview=true)**
+資料探索的部分，可以直接參考[KKBOX 歌曲推薦系統](https://wenwender.wordpress.com/2019/04/03/kkbox-%e6%ad%8c%e6%9b%b2%e6%8e%a8%e8%96%a6%e7%b3%bb%e7%b5%b1/?preview_id=180&preview_nonce=c112e18087&preview=true)
 
 ## Train
 
@@ -111,6 +111,6 @@ weighted avg       0.69      0.69      0.69   1475484
 
 [Kaggle 資料來源](https://www.kaggle.com/c/kkbox-music-recommendation-challenge/data)
 
-****[XGBoost Parameters](https://xgboost.readthedocs.io/en/latest/parameter.html#general-parameters)****
+[XGBoost Parameters](https://xgboost.readthedocs.io/en/latest/parameter.html#general-parameters)
 
-****[XGBOOST從原理到實戰：二分類 、多分類](https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/519169/)****
+[XGBOOST從原理到實戰：二分類 、多分類](https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/519169/)
